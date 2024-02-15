@@ -1,4 +1,4 @@
-#**Password Generator**
+#Password Generator
 
 This simple Bash script generates random passwords of specified length using OpenSSL. It's a handy tool for quickly creating secure passwords for various purposes.
 
